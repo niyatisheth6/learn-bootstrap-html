@@ -1,0 +1,11 @@
+h1 {
+  margin-top: 10px;
+}
+
+.accordion .btn {
+  background-color: #1abc9c;
+}
+
+.accordion .btn.collapsed {
+  background-color: #3498db;
+}/*# sourceMappingURL=index.css.map */
